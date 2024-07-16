@@ -28,3 +28,12 @@ var myVar = "Hello, world!";
 ```fortran
 real*8,parameter :: pi
 ```
+
+# Task list
+Crea un progress indicator!
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
